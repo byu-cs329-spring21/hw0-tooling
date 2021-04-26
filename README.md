@@ -101,21 +101,4 @@ Complete this part of the homework by creating and adding a `.gitignore` file to
 
 # Grading Rubric
 
-| Problem | Point Value | Your Score |
-| ------- | ----------- | ---------- |
-| Descriptive branch name | 5 | |
-| Pull request adheres to style guide | 10 | |
-| Pull request @references the instructor for notification | 5 | |
-| Commits organized in logical units | 10 | |
-| Commit messages adhere to standard guidelines | 10 | |
-| `.gitignore` file to ignore non-essential files | 5 | |
-| Java 1.8 Set in `pom.xml`| 5 | |
-| Logging support with a binding is in the `pom.xml`    file | 5 | |
-| `mvn` configured to compile code | 5 | |
-| Code builds with no warnings or errors | 10 | |
-| Build runs CheckStyle and reports warnings and errors | 5 | |
-| Code passes CheckStyle on the Google rule set with no warnings or errors | 20 | |
-| `mvn site` generates JavaDocs with no warnings or errors | 5 | |
-| JavaDocs are given for one class that adheres to the style guide | 25 | |
-| The JavaDoc documented class includes logging at all levels | 10 | |
-| Total | 135 | |
+See Canvas for details
